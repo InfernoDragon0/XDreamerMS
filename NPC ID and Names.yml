@@ -1,0 +1,710 @@
+#Best viewed in Notepad ++
+# Copyright file 2012 - 2013 InfernoDragon0 and XDreamerMS
+# Just Ctrl + F and find the needed map name e.g Henesys
+# Or you can just find the first few numbers of the NPCs e.g 100 for Henesys
+# This is the NPC ID and Names Guide page
+-Format-
+ID:NAME(BY NAME) [Remarks]
+
+**********************************
+NPCs that are coded (By InfernoDragon0)
+**********************************
+#Managers
+9000020: Spindle [Event NPC]
+1204004: ??? [Rebirth NPC]
+1204031: ??? [Maxer NPC]
+2050015: [?, Server info]
+
+#Gachapons
+9100117: Summoning Sack Gachapon
+9201083: The Glimmer Man (Event Gachapon)
+2084001: Gold Richie (Mesos gachapon)
+
+#Others
+1022000: Dances with balrog [NPC awaiting for disposal]
+1022101: Rooney [Christmas NPC for warping to custom map]
+1400003: Captain Renault [NPC awaiting for disposal]
+9010024: Mesobank
+9010026: Skill Maxer
+
+**********************************
+NPCs Pre Made
+**********************************
+#2000 NPCs from Maple Island
+2003: Robin (By Xterminator) [Apples]
+2007: Shanks (Unnamed) [Need to find name]
+2101: Heena (By Xterminator) [Start NPC]
+
+#10000/22000 NPCs from Maple Island
+10200: Athena Pierce "Intro" [Intro]
+10201: Grendel The Really Old "Intro" [Intro]
+10202: Dances with Balrog "Intro" [Intro]
+10203: Dark Lord "Intro" [Intro]
+10204: Kyrin "Intro" [Intro]
+12101: Rain (By Xterminator) [Quizzer]
+22000: Shanks [Transporter]
+
+#1002000 NPCs from Lith Harbor
+1002000: Phil (By Xterminator)
+1002001: Cody (UNCODED)
+1002002: Pison (By Xterminator)
+1002003: Mr. Goldstein (By Xterminator)
+1002004: VIP Cab (By Xterminator)
+1002005: Mr. Kim
+1002007: Regular Cab at Lith Habour
+1002100: Jane (By Xterminator)
+1002101: [unnamed]
+
+#1010000 NPCs from Henesys
+1012000: Regular Cab (By Xterminator)
+1012002: Vicious
+1012005: Cloy (By Xterminator)
+1012006: Trainer Bartos (By Xterminator)
+1012007: Trainer Frod (By Xterminator)
+1012009: Mr. Lee
+1012100: Athena Pierce [Bowman instructor]
+1012103: Natalie
+1012104: Brittany
+1012105: Ms. Tan
+1012112: [unnamed cake man]
+1012113: [unnamed]
+1012114: Growlie [Henesys PQ]
+1012115: [unnamed shadow thing]
+1012116: [unnamed shadow thing]
+1012118: [unnamed spore guy]
+1012119: [unnamed spore guy]
+1012121: [unnamed cloths collector]
+1012123: Android Styler
+1013001: [unnamed guy fantasizing on dragon master]
+1013002: [unnamed]
+1013104: Hen
+1013200: [unnamed npc playing catching]
+1013207: [unnamed npc warper]
+
+#1020000 NPCs from Perion
+1022001: Regular Cab (By Xterminator)
+1022002: Balrog warper
+1022003: Mr. Thunder
+1022004: Mr. Smith
+1022005: Mr. Wang
+1022103: [unnamed]
+1022106: [unnamed]
+1022107: [something about guard request]
+
+#1030000 NPCs from Ellinia
+1032000: Regular Cab
+1032001: Grendel the Really Old
+1032002: Francois
+1032003: Shane (ver 1.0 by Unknown of OdinMS)
+1032004: Shane
+1032005: VIP Cab
+1032006: Mr. Wang
+1032007: Joel
+1032008: Cherry
+1032009: Purin
+1032100: Arwen the Fairy
+1032102: Mar the Fairy
+1032111: Small Trunk
+1032113: [Training center npc]
+1032114: [Training center npc]
+1033000: [Storage??]
+1033002: [Shop 35]
+1033103: [uncoded] (school noc)
+1033104: [uncoded] (school npc)
+1033105: [uncoded] (school npc)
+1033106: [uncoded] (school npc)
+1033110: [uncoded] (school npc)
+1033112: [uncoded] (school npc)
+1033200: [opens 1033201]
+1033201: [Some intro npc]
+1033202: [intro npc]
+1033205: [mercedes intro]
+1033206: [uncoded]
+
+#1040000 Dungeon NPCs
+1040000: Mike
+1040001: Mike
+1043000: A Pile of Flowers
+1043001: A Pile of Herbs
+1043002: Mike [uncoded]
+1043003: Mike [uncoded]
+
+#1050000 Kerning City
+1052001: Dark Lord
+1052002: JM from tha Streetz
+1052003: Chris
+1052004: Denma the Owner
+1052005: Dr. Feeble
+1052006: Jake
+1052007: Ticketting machine
+1052008: Treasure Chest (By Unknown of OdinMS)
+1052009: Treasure Chest (By Unknown of OdinMS)
+1052010: Treasure Chest (By Unknown of OdinMS)
+1052011: Exit
+1052012: Computer [Premium cafe]
+1052013: Maple Administrator [Battler info]
+1052014: [ball npc]
+1052015: [pokemon npc]
+1052016: Regular Cab (By Xterminator)
+1052017: Mr. Hong
+1052100: Don Giovanni
+1052101: Andre
+1052104: [quest complete]
+1052107: [kills a monster when clicked]
+1052113: [training center]
+1052114: [training center]
+1052115: Mr.Lim
+1052116: [opens shop 35]
+1057001: [dual blade guy]
+
+#1060000 NPCs for Sleepywood
+1061000: Chrishrama
+1061006: [statue]
+1061007: Crumbling Statue
+1061008: Mr. Oh
+1061009: Door of Dimension
+1061010: [sparkling crystal of 3rd job]
+1061012: Insiginificant Being
+1063000: A pile of pink flower
+1063001: A pile of blue flower
+1063002: A pile of white flower
+1063012: [quest complete]
+1063013: [quest complete]
+1063016: [warper]
+1063107: [warper]
+
+#1070000 NPCs for job change
+1072000: Warrior Job Instructor
+1072001: Magician Job Instructor
+1072002: Bowman Job Instructor
+1072003: Thief Job Instructor
+1072004: Warrior Job Instructor 2
+1072005: Magician Job Instructor 2
+1072006: Bowman Job Instructor 2
+1072007: Thief Job Instructor 2
+1072008: Kyrin
+
+#1080000 NPCs for Florina beach
+1081001: Pison
+
+#1090000 NPCs for Nautilus
+1090000: Kyrin
+1091002: [open shop]
+1091003: Serryl
+1091004: Dondlass
+1092000: Tangyoon
+1092004: Calico [uncoded]
+1092007: Muirhat
+1092008: [book ghost in disguise]
+1092010: Jack [uncoded]
+1092014: Nautilus' Mid-Sized Taxi
+1092016: [some stone]
+1092018: Trash Can
+1092019: Lord Jonathan [uncoded]
+1092090: Tangyoon [warp, remove]
+1092091: Tangyoon [warp, remove]
+1092092: Tangyoon [warp, remove]
+1092093: Tangyoon [warp, remove]
+1092094: Tangyoon [warp, remove]
+1092095: Tangyoon [warp, remove]
+1094000: Bart [uncoded]
+1094002: Bush
+1094003: Bush
+1094004: Bush
+1094005: Bush
+1094006: Bush
+1095000: [warper]
+1095001: [training center]
+1095002: [training center]
+1095003: [cannon shooter]
+1096000: [cannon shooter]
+1096001: [uncoded]
+1096003: [monkey]
+1096005: [monkey]
+1096010: [cannon shooter]
+
+#1100000 NPCs for Erev
+1100000: [storage]
+1100003: [warper]
+1100007: [warper]
+1101001: Divine Bird
+1101008: Guide Summoner
+1102001: Kiriko
+1102003: Kidan
+1103000: [uncoded]
+1103005: [warper]
+1104002: Mihai
+1104100: Mihai
+1104101: Mihai
+1104102: Mihai
+1104103: Mihai
+1104104: Mihai
+1104200: [warper]
+1106000: [?]
+
+#1200000 NPCs for Rien
+1200000: Pusla (By Resonance)
+1200001: [open shop 106]
+1200002: [open shop 35]
+1200003: Konpei
+1200004: Konpei
+1202000: Lirin
+1204001: Francis
+1209000: [aran]
+1209001: [uncoded]
+1209002: [uncoded]
+1209003: [uncoded]
+1209004: [uncoded]
+1209005: [uncoded]
+
+#1300000 NPCs M Castle
+1300010: Killer Mushroom Spore (by Resonance)
+1300013: [M Castle pq]
+1300014: SELF (By Resonance)
+1301000: [open shop 35]
+1402400: [?]
+1402401: [?]
+
+#2000000 NPCs H Ville
+2001000: Cliff
+2001001: Branch Bucket Snowman
+2001002: Metal Bucket Snowman
+2001003: Strawhat Snowman
+2001004: Scarf Snowman
+2002000: [?]
+
+#2010000 NPCs Orbis
+2010000: Master Sergeant Fox
+2010001: Mino the Owner
+2010002: Franz the Owner
+2010003: Neve
+2010005: Shuri the Tour Guide
+2010006: Trina
+2010007: [guild]
+2010008: [guild]
+2010009: [guild]
+2010011: [guild]
+2012000: [uncoded]
+2012001: Rini
+2012002: Erin
+2012006: [warper]
+2012007: Rinz the assistant
+2012008: Romi
+2012009: Riza the Assistant
+2012013: Sunny
+2012014: Orbis Magic Spot
+2012015: El Nath Magic Spot
+2012018: [chryse]
+2012021: Ramini
+2012022: [?]
+2012023: [absorbing maple leaves]
+2012024: Egnet
+2012025: Geras
+2012027: [song]
+2012028: [song]
+2012029: [song]
+2012030: [song]
+2012031: [song]
+2012032: [song]
+2012033: [song]
+
+#2013000 NPCs for O PQ
+2013000: Chamberlain Eak
+2013001: Chamberlain Eak
+2013002: [end]
+
+#2020000 NPCs for El Nath
+2020000: Vogen
+2020001: [open shop 48]
+2020002: Gordon
+2020004: Mr. Mohammed
+2020005: Alcaster (By Unknown/Information/xQuasar)
+2020008: Tylus
+2020009: Robeira
+2020010: Rene
+2020011: Arec
+2020013: Fedro
+2022003: [ice ravine]
+2022004: Tylus
+2022005: [?]
+2022006: [uncoded]
+2022007: [?]
+2022008: Rex [Sealed up]
+2022009: [uncoded]
+2023000: [Special taxi]
+
+#2030000 NPCs for El Nath Dungeon
+2030000: Jeff
+2030006: Holy Stone
+2030008: Adobis
+2030010: Amon
+2030011: Ali
+2030013: Adobis (zak and czak)
+2030014: [unknown]
+2032001: Spiruna
+2032002: [zak pq npc]
+2032003: Lira
+
+#2040000 NPCs for Ludibrium
+2040000: Mel
+2040002: [?]
+2040003: Assistant Cheng
+2040016: Pi
+2040019: Everton
+2040020: Sarah
+2040021: Tara
+2040022: Rydole
+2040024: First Eos Rock
+2040025: Second Eos Rock
+2040026: Third Eos Rock
+2040027: Fourth Eos Rock
+2040028: Mark the Toy Soldier
+2040030: Wisp
+2040032: Weaver
+2040033: Neru
+2040034: Red Sign
+2040035: [?]
+2040036: Red Balloon
+2040037: Orange Balloon
+2040038: Yellow Balloon
+2040039: Lime Balloon
+2040040: Green Balloon
+2040041: Aqua Balloon
+2040042: Sky-Blue Balloon
+2040043: Blue Balloon
+2040044: Violet Balloon
+2040045: Pink Balloon
+2040046: Robert Holly
+2040047: Sgt. Anderson
+2040048: [forina beach warper]
+2040050: Eurek the Alchemist
+2040052: Wiz the Librarian
+2041000: Tian (By Xterminator)
+2041001: [?]
+2041003: [?]
+2041007: Miyu
+2041008: Seppy
+2041009: Mini
+2041010: Ellie
+2041013: Gina
+2041023: Flo
+2041025: Machine Apparatus
+2042000: [?]
+2042001: [cpq]
+2042002: Spiegelmann
+2042003: [?]
+2042004: [?]
+2042005: [?]
+2042006: [?]
+2042007: Spiegelmann
+2042008: [?]
+2042009: [?]
+2043000: Papulatus
+2050004: Kubo the Storageman
+2050014: [?]
+2050016: [?]
+2050017: [Boss pq]
+2050018: Agent W [donation manager]
+2050019: [Compensation NPC]
+
+#2060000 NPCs for Aquarium
+2060005: Kenta [uncoded]
+2060008: Gerrad [in arient o.o]
+2060009: [dolphin taxi?]
+2060010: [?]
+2060100: Carta
+2060103: [Dual pq?]
+
+#2070000 NPCs for ..?
+2070000: [storage?]
+2070002: [open shop 48]
+2070003: [open shop 52]
+2071012: [?]
+
+#2080000 NPCs for Leafre
+2080001: [open shop 38]
+2080002: [open shop 52]
+2080004: [open shop 105]
+2080005: Koscu
+2081000: Chief Tatamo
+2081004: Pam [uncoded]
+2081005: Keroben
+2081009: Moose
+2081010: Moose, Power of Shield
+2081100: Harmonia
+2081200: Gritto
+2081300: Legor
+2081400: Hellin
+2081500: Samuel
+2082000: Mue
+2082001: Tommie
+2082002: [?]
+2082003: Cobra
+2083000: Encrypted Slate of the Squad [HT]
+2083001: Encrypted Slate of the Squad
+2083002: Crystal of Roots [HT]
+2083004: Mark of the Squad
+2083006: Crysta
+2084000: Gold Compass
+
+#2090000 NPCs for Mu Lung
+2090000: [storage]
+2090001: [open shop 48]
+2090002: [open shop 52]
+2090003: [open shop 35]
+2090004: Mr. Do
+2090005: Hak
+2090100: Grandpa Luo
+2090101: Lilishu
+2090102: Romi
+2090103: Pata
+2090104: Noma
+2091005: So Gong
+2091006: Mu Lung Training Center entrance
+2091010: [?]
+2092001: [?]
+2093000: [?]
+2093001: [?]
+2093002: [?]
+2093003: [?]
+2093004: [?]
+2094000: [?]
+2094001: [?]
+2094002: [?]
+2095000: [?]
+2096000: [?]
+
+#2100000 NPCs for Ariant
+2100000: Ahmad
+2100001: Muhammad
+2100002: [?]
+2100003: [?]
+2100005: Shati
+2100006: Mazra
+2100007: Laila
+2100008: Badr
+2100009: Aldin
+2101000: Siron [uncoded]
+2101001: Jiyur [uncoded]
+2101002: Eleska [uncoded]
+2101003: Ardin [uncoded]
+2101004: Tigun [uncoded]
+2101005: Byron [uncoded]
+2101006: Le Petit Prince [uncoded]
+2101007: Areda [uncoded]
+2101008: Schegerazade [uncoded]
+2101009: Abdullah VIII [uncoded]
+2101011: Sejan [uncoded]
+2101013: Karcasa
+2101014: [boss pq]
+2102000: Asesson (By Xterminator)
+2102001: Slyn
+2102002: Syras
+2103000: [oasis]
+2103001: [?]
+2103002: [?]
+2103009: [?]
+2103010: [?]
+2103011: [?]
+2103012: [?]
+2103013: Duarte [Pyramid]
+
+#2110000 NPCs for Magatia
+2110000: [storage]
+2110001: [open shop 35]
+2110005: [warper]
+2111000: Carson
+2111001: Maed
+2111003: Humanoid A
+2111006: Parwen [uncoded]
+2111024: [password thing]
+2111025: [?]
+2111026: [?]
+2112000: [romeo pq?]
+2112001: [?]
+2112002: [romeo pq rewards]
+2112003: [romeo pq]
+2112004: [romeo pq]
+2112005: [romeo pq]
+2112006: [romeo pq]
+2112007: [romeo pq]
+2112008: [Juliet pq]
+2112009: [Juliet pq]
+2112010: [Juliet pq]
+2112011: [Juliet pq]
+2112012: [Juliet pq]
+2112013: [Juliet pq]
+2112018: [Juliet pq]
+
+#2130000 NPCs for Altair camp(Ellin)
+2130000: [open shop 35]
+2131000: Athena Pierce
+2131001: Pergen
+2131002: Euryth
+2131003: [?]
+2131005: [?]
+2131006: [?]
+2131007: [?]
+2132000: Kanderun
+2132001: [call him dark lord?!][uncoded]
+2132002: [uncoded]
+2132003: [uncoded]
+2133000: [Ellin pq?]
+2133001: [ellin pq]
+2133002: [ellin pq]
+2133004: [ellin pq]
+
+#2140000 NPCs for Temple Of Time
+2141000: Kirston
+2141001: The Forgotten Temple Manager
+2141002: The Forgotten Temple Manager
+2142000: [open shop 35]
+2143004: [Cygnus Exped]
+2144020: [cygnus exped?]
+
+#2150000 NPCs for Edelstein
+2150000: [storage]
+2150002: [open shop 35]
+2150008: [warper]
+2150009: [warper]
+2150010: [warper]
+2151002: [wild hunter beginner skills]
+2151006: [pursuing you to fight]
+2151007: [training rooms]
+2151008: [jaguar room]
+2152005: [mechanic job]
+2152012: [opens 2152005]
+2152013: [opens 2152005]
+2152014: [opens 2152005]
+2152015: [opens 2152005]
+2152019: [post board]
+2153002: [?]
+2159000: [?]
+2159001: [Intro]
+2159002: [intro]
+2159003: [intro]
+2159004: [intro]
+2159005: [intro]
+2159006: [intro]
+2159007: [intro]
+2159008: [intro]
+2159010: [intro]
+2159011: [intro]
+2159012: [intro]
+2159013: [?]
+2159015: [intro]
+2159016: [intro]
+2159017: [ice knight]
+2159018: [ice knight]
+2159019: [uncoded]
+2159020: [uncoded]
+2159100: Mihai
+2159307: [intro]
+2159309: [intro]
+2159310: [intro]
+2159311: [intro]
+2159314: [intro]
+2159328: [intro]
+2159329: [intro]
+2159330: [intro]
+2159340: [intro]
+2159344: [intro]
+
+#2160000 NPCs for Von Leon
+2161000: [intro]
+2161001: [?]
+2161005: [von leon]
+2161006: [von leon]
+2161007: [?]
+2161008: [?}
+2161009: [?]
+
+#2170000 NPCs for 
+2170004: [warper]
+2170006: [?]
+
+#2180000 NPCs for ghosts
+2182002: GM NPC ID SHOP [Over level 4 GMs only]
+
+#9000000 NPCs for Events
+9000000: Paul [for 3rd maple anniversary]
+9000001: Maple Admin [for 3rd anniversary]
+9000002: [warps to fm]
+9000006: Vikoon [event scroll, uncoded]
+9000009: Vikin [event scroll, uncoded]
+9000010: [warps to fm]
+9000011: Martin [3rd anniversary]
+9000012: Ola event [1 meso wood weapon]
+9000013: Maple Admin [3rd anniversary]
+9000017: [valentines day addict, uncoded]
+9000018: Maple Admin [battler info]
+9000019: Maple Admin? [high as what, giving out RPS and stuff]
+9000020: Spinel
+9000021: Maple Admin [battler info]
+9000030: [unnamed auto hp thing]
+9000034: [AIO shop?](By Rich)
+9000035: [Rebirth system?]
+9000037: Agent Kitty
+9000039: [donation thing]
+9000041: Donation
+9000049: Fairy Tale Fairy Crackers
+9000059: Gingerman
+9000060: Gingerman
+9000069: Inkwell
+9000075: [Golden Temple]
+9000078: [golden temple]
+9000080: [golden temple]
+9000081: [open shop 35]
+9000082: [?]
+9000085: [pokemon]
+9000086: [warps to fm]
+9000087: [warp to ardentmill]
+9000088: [warper]
+9000089: [open 9000090]
+9000090: [open 2110005]
+9001000: [Boss pq]
+9001001: [sweet cake hill]
+9001003: [open shop 35]
+9001004: [Coke coconut event]
+
+#9010000 NPCs for GM
+9010000: [Check mob info]
+9010001: Tia [uncoded]
+9010002: Mia [uncoded]
+9010003: Ria [lolcastle]
+9010009: Duey
+9010010: Cassandra [uncoded]
+9010044: Aramia
+9010017: [Drop Cash item]
+9010022: Dimensional Mirror
+9010038: [uncoded]
+9020000: [Kerning PQ]
+9020001: [Kerning PQ]
+9020003: [Kenta PQ]
+9020004: [Kenta PQ]
+9020005: [Von Leon PQ]
+9020006: [Ani PQ]
+9020008: [uncoded]
+9030000: [?]
+9030100: [storage]
+9031000: [Ardentmill advertiser]
+9031001: [Profession]
+9031002: [Profession]
+9031003: [Profession]
+9031004: [Profession]
+9031005: [Profession]
+9031010: [Profession]
+9031011: [Profession]
+9031012: [Profession]
+9031013: [Profession]
+9031014: [Profession]
+9031016: [Profession]
+9040000: Shuang
+9040001: Nuris
+9040002: Shawn
+9040003: Sharen III's Soul
+9040004: [pokemon]
+9040005: [Guild quest]
+9040006: Guardian Statue
+9040007: Sharen III's Will (By Lerk)
+9040009: Gatekeeper (By Lerk)
