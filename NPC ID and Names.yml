@@ -1,5 +1,11 @@
-#Best viewed in Notepad ++
-# Copyright file 2012 - 2013 InfernoDragon0 and XDreamerMS
+  # Copyright (C)  2012  InfernoDragon0 of XDreamerMS.
+  # Permission is granted to copy, distribute and/or modify this document
+  # under the terms of the GNU Free Documentation License, Version 1.3
+  # or any later version published by the Free Software Foundation;
+  # with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+  # A copy of the license is included in the section entitled "GNU
+  # Free Documentation License".
+  
 # Just Ctrl + F and find the needed map name e.g Henesys
 # Or you can just find the first few numbers of the NPCs e.g 100 for Henesys
 # This is the NPC ID and Names Guide page
@@ -10,11 +16,17 @@ ID:NAME(BY NAME) [Remarks]
 NPCs that are coded (By InfernoDragon0)
 **********************************
 #Managers
-9000020: Spindle [Event NPC]
+9201082: Spindle [Event NPC]
 1204004: ??? [Rebirth NPC]
 1204031: ??? [Maxer NPC]
 2050015: [?, Server info]
 9200000: Cody [Job Advancer]
+9270035: Eunice [Newly coded]
+9073008: Mystic Gate [Vote points NPC]
+9000039: Agent W [Donation Manager]
+9201144: Job Changer (VIP)
+9010041: Boss map warper
+9001000: CokeBear Operator [Boss PQ]
 
 #Gachapons
 9100117: Summoning Sack Gachapon
@@ -27,6 +39,8 @@ NPCs that are coded (By InfernoDragon0)
 1400003: Captain Renault [NPC awaiting for disposal]
 9010024: Mesobank
 9010026: Skill Maxer
+2041024: Tombstone [Papulatus warper]
+9901102: Stirgeman [Shards fixer]
 
 **********************************
 NPCs Pre Made
@@ -617,7 +631,7 @@ NPCs Pre Made
 2161005: [von leon]
 2161006: [von leon]
 2161007: [?]
-2161008: [?]
+2161008: [?}
 2161009: [?]
 
 #2170000 NPCs for 
@@ -791,9 +805,9 @@ NPCs Pre Made
 9120210:
 9120212:
 9120214:
-9120216:
-9120217:
-9120218:
+9120216: [Grand Champion]
+9120217: [?]
+9120218: [?]
 9120228:
 
 #9200000 NPCs for
@@ -844,7 +858,6 @@ NPCs Pre Made
 9201074:
 9201079:
 9201081:
-9201082:
 9201083:
 9201099:
 9201107:
